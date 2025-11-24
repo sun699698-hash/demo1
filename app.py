@@ -36,3 +36,4 @@ def submit_feedback():
 
 # Step 8: Check if the Submit Button is Clicked
 if submit_button:
+    submit_feedback()
